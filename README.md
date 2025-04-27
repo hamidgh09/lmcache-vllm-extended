@@ -80,5 +80,5 @@ The provided frontend uses a sample text file and prepends it to all prompts sen
 You may need to modify that to achieve all requirements in the project description.
 
 [LMCache]: https://github.com/LMCache/LMCache
-[LMCache-Server]: https://github.com/LMCache/LMCache
+[LMCache-Server]: https://github.com/LMCache/lmcache-server
 [LMCache-doc]: https://docs.lmcache.ai/configuration/config.html
